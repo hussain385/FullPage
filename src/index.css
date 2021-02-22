@@ -11,3 +11,77 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#fp-nav ul li .fp-tooltip {
+  color: white;
+}
+.fp-controlArrow.fp-next {
+  border-color: transparent transparent transparent;
+}
+.fp-controlArrow.fp-prev {
+  border-color: transparent transparent transparent;
+}
+
+.sl1{
+  background: url('./images/1.jpg');
+  background-size: cover;
+  background-position-y: center;
+}
+
+.sl2{
+  background: url('./images/2.jpg');
+  background-size: cover;
+  background-position-y: center;
+}
+
+.sl3{
+  background: url('./images/3.jpg');
+  background-size: cover;
+  background-position-y: center;
+}
+
+h1{
+  color: white;
+  align-items: center;
+  text-align: center;
+}
+
+span{
+  Background: white !important;
+}
+
+.s2{
+  background: url('./images/4.jpg');
+  background-size: cover;
+  background-position-y: center;
+}
+
+.s3{
+  background: url('./images/5.jpg');
+  background-size: cover;
+  background-position-y: center;
+}
+
+.s4{
+  background: url('./images/6.jpg');
+  background-size: cover;
+  background-position-y: center;
+}
+
+.s5{
+  background: url('./images/7.jpg');
+  background-size: cover;
+  background-position-y: center;
+}
+
+.sl4{
+  background: url('./images/8.jpg');
+  background-size: cover;
+  background-position-y: center;
+}
+
+.sl5{
+  background: url('./images/9.jpg');
+  background-size: cover;
+  background-position-y: center;
+}
