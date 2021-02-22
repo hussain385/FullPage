@@ -1,25 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+// import { useEffect } from 'react';
+// import './css/main.css';
+// import  fullpage  from "fullpage";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+// function App() {
+//   useEffect(() => {
+//     new fullpage('#fullpage', {
+//       autoScrolling:true
+//   })
+//   }, [])
 
-export default App;
+//   return (
+//     <div id="fullpage">
+//         <div class="section s1">
+//             <h1>
+//                 1st section
+//             </h1>
+//         </div>
+//         <div class="section s2">
+//             <h1>
+//                 2nd section
+//         </h1>
+//         </div>
+//         <div class="section s3">
+//             <h1>
+//                 3rd section
+//             </h1>
+//         </div>
+//     </div>
+//   );
+// }
+
+// export default App;
